@@ -349,6 +349,10 @@ footer{
   footer, .divfooter{
     display: block;
   }
+  footer{
+    position: absolute;
+    bottom: -100px;
+  }
   .divfooter{
     text-align: center;
     padding-top: 10px;
