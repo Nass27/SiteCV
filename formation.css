@@ -22,6 +22,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.retour{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
 .titre{
     text-align: center;
     color: white;

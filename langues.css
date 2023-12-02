@@ -17,6 +17,11 @@ html, body {
     margin:0;
     padding:0;
     }
+.retour{
+        position: fixed;
+        bottom: 0px;
+        right: 0px;
+}
 .langues{
     text-align: center;
 }
