@@ -30,8 +30,14 @@ body{
 .titre{
     text-align: center;
     color: white;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-decoration: none;
+}
+.soustitre{
+    text-align: center;
+    color: rgb(73, 141, 209);
+}
+.titre, .soustitre{
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .divtitre{
     background-image: url('Images/school.jpg');
@@ -73,11 +79,7 @@ body{
 .descrbach{
     margin-right: 20px;
 }
-.soustitre{
-    text-align: center;
-    color: rgb(73, 141, 209);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+
 
 
 p{
@@ -88,9 +90,6 @@ p{
     color: white;
     font-size: 14px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-    /*font-family: 'Courier New', Courier, monospace;*/
-
 }
 
 /*Queries*/

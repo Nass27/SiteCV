@@ -33,7 +33,10 @@ footer{
 }
 .lieu{
   margin-right: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   padding-left: 3px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .Nass{
   width: 100px;
@@ -56,13 +59,20 @@ footer{
   color: white;
   margin-top: 10px;
 }
+.titreNass, .soustitreNass{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .accroche{
   text-align: center;
   color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .Boutons{
   display: block;
   text-align: center;
+}
+.button{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .myButton {
 	box-shadow:inset 0px 0px 15px 3px #23395e;

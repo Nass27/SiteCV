@@ -48,7 +48,7 @@ body{
 .citation{
     color: white;
     font-size: 25px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     text-align: center;
     margin: 0px;
     align-self: center;
@@ -64,8 +64,8 @@ body{
 .soustitre{
     font-size: 15px;
     color: white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    margin-top: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0px;
 }
 .descriptif{
     text-align: justify;
