@@ -139,4 +139,11 @@ body{
     .citation{
         font-size: 22px;
     }
+    .soustitre{
+        display: inline-block;
+    }
+    .logos{
+        display: flex;
+        justify-content: center;
+    }
 }
