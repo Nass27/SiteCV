@@ -56,11 +56,17 @@ html, body {
 .titreHobbies{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
+    font-size: 30px;
+    color: black;
+  text-shadow: -1px -1px white, 1px 1px #333;
 }
 .texteHobbies{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-
+    color: black;
+    background-color: #fffafa1f;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 /*Queries*/
 @media screen and (max-width: 992px) {
@@ -69,5 +75,12 @@ html, body {
 
 /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
-
+    .divHobbies{
+        background-position: top;
+    }
+    .texteHobbies{
+        background-color: #fffafa91;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }

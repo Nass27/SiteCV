@@ -348,6 +348,9 @@ footer{
 
 /*Queries*/
 @media screen and (max-width: 992px) {
+  .accroche{
+    padding: 0 10px;
+  }
   
 }
 
