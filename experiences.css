@@ -139,6 +139,9 @@ body{
         margin-left: 10px;
         margin-right: 10px;
     }
+    .titrecit{
+        padding: 0px 15px;
+    }
     .citation{
         font-size: 22px;
         margin: 0 10px;
